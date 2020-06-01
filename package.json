@@ -1,0 +1,12 @@
+{
+  "name": "christian-bot",
+  "version": "1.0.0",
+  "description": "A bot that detects swear words and posts a 'Not in my Christian server meme'",
+  "main": "bot.js",
+  "author": "@DanBullockCS",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "fs": "0.0.1-security",
+    "winston": "^3.2.1"
+  }
+}
